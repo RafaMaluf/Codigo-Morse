@@ -1,4 +1,4 @@
-# Árvore Binária de Código Morse (Java)
+# Árvore Binária de Código Morse (Java) 
 
 Implementação em Java de uma árvore binária para Código Morse, onde ponto (.) navega pra esquerda e traço (-) pra direita até o nó que armazena o símbolo.  
 O programa tem um menu no console para popular a árvore com o alfabeto padrão, inserir novos mapeamentos, codificar e decodificar mensagens, e exibir a árvore.
